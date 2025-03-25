@@ -6,7 +6,7 @@ This is an EXAMPLE script for parsing rule descriptions in the converted XML out
 Run the script as follows:
 python3 renamer.py <input.xml> <output.xml>
 
-Where <input.xml> is the Converted XML file from Expedition and <output.xml> is the desired output file name.
+Where <input.xml> is the Converted XML file from Expedition and <output.xml> is the desired output file name in XML format.
 
 
 After completion, the script will summarize the list of changes made, for example:
